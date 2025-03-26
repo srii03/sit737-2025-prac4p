@@ -1,0 +1,21 @@
+{
+  "name": "sit737-2025-prac4p",
+  "version": "1.0.0",
+  "description": "A simple calculator microservice using Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "express",
+    "microservice",
+    "node.js"
+  ],
+  "author": "Your Name or Company",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "winston": "^3.17.0"
+  }
+}

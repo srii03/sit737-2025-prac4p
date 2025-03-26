@@ -1,0 +1,16 @@
+{"level":"info","message":"Request: GET / from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET / from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /add?num1=10&num2=5 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Addition operation: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET / from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET / from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET / from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /favicon.ico from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /add?num1=10&num2=5 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Addition operation: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /subtract?num1=10&num2=5 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction operation: 10 - 5 = 5","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /multiply?num1=10&num2=5 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication operation: 10 * 5 = 50","service":"calculator-microservice"}
+{"level":"info","message":"Request: GET /divide?num1=10&num2=5 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Division operation: 10 / 5 = 2","service":"calculator-microservice"}
